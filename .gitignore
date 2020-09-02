@@ -1,0 +1,7 @@
+.terraform
+variables.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+.DS_Store
+.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.4.0_x5
